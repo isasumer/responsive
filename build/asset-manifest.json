@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/RESPONSIVE/static/js/main.7e7109fb.chunk.js",
+    "main.js.map": "/RESPONSIVE/static/js/main.7e7109fb.chunk.js.map",
+    "runtime-main.js": "/RESPONSIVE/static/js/runtime-main.22ed6b61.js",
+    "runtime-main.js.map": "/RESPONSIVE/static/js/runtime-main.22ed6b61.js.map",
+    "static/js/2.61546b7c.chunk.js": "/RESPONSIVE/static/js/2.61546b7c.chunk.js",
+    "static/js/2.61546b7c.chunk.js.map": "/RESPONSIVE/static/js/2.61546b7c.chunk.js.map",
+    "static/js/3.be1d5ad5.chunk.js": "/RESPONSIVE/static/js/3.be1d5ad5.chunk.js",
+    "static/js/3.be1d5ad5.chunk.js.map": "/RESPONSIVE/static/js/3.be1d5ad5.chunk.js.map",
+    "index.html": "/RESPONSIVE/index.html",
+    "static/js/2.61546b7c.chunk.js.LICENSE.txt": "/RESPONSIVE/static/js/2.61546b7c.chunk.js.LICENSE.txt",
+    "static/media/App.ff0d37b8.png": "/RESPONSIVE/static/media/App.ff0d37b8.png",
+    "static/media/play.74384196.png": "/RESPONSIVE/static/media/play.74384196.png",
+    "static/media/service.ec7b15fd.png": "/RESPONSIVE/static/media/service.ec7b15fd.png",
+    "static/media/woman.990c562d.png": "/RESPONSIVE/static/media/woman.990c562d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22ed6b61.js",
+    "static/js/2.61546b7c.chunk.js",
+    "static/js/main.7e7109fb.chunk.js"
+  ]
+}
